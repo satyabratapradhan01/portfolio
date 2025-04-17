@@ -44,7 +44,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Express.js</b>
+                <b className="purple"> React.js, Node.js and Express.js</b>
               </i>
             </p>
           </Col>
